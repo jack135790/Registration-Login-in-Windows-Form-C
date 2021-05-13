@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\admin\Desktop\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.Form1.resources
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.Properties.Resources.resources
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.exe
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.pdb
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.Form2.resources
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Registration\Registration\bin\Debug\Detail.mdf
+C:\Users\admin\Desktop\Registration\Registration\bin\Debug\Detail_log.ldf
+C:\Users\admin\Desktop\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Login.Form2.resources
+C:\Users\admin\Desktop\Registration\Registration\obj\x86\Debug\Registration.Form3.resources
